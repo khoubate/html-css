@@ -1,2 +1,2 @@
-[View the rendered HTML page](./Magazine-Template/index.html)
-
+# html-css
+Responsive Web Design
